@@ -5,7 +5,7 @@
 # How to run this code?
 1. Make sure you have node installed(use node -v if you want to be sure);
 2. Clone the repository;
-3. CD into the exercise folder you want to see running;
+3. CD into the folder of the exercise you want to see running;
 4. Execute it with ```node name_of_the_exercise.js```
 
 # Method
