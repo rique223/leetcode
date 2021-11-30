@@ -59,3 +59,6 @@ const swap = (numberArray, i, j) => { // Receives the array and the indexes that
 ```
 
 # Results
+![image](https://user-images.githubusercontent.com/43561537/144112795-95670f44-ac44-4c7b-a89c-1bea9e2d8207.png)
+![image](https://user-images.githubusercontent.com/43561537/144112922-c90983ff-67f4-4399-9a2b-b788f9223655.png)
+
