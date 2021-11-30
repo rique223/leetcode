@@ -2,6 +2,12 @@
 
 [Link to this exercise in leetcode](https://leetcode.com/problems/roman-to-integer/). You can run the [Original code](originalRomanToInteger.js) if you want to try and have the same time as I did or you can run the [Humanized code](humanizedRomanToInteger.js) if you only want to see the algo running in a visually manner.
 
+# How to run this code?
+1. Make sure you have node installed(use node -v if you want to be sure);
+2. Clone the repository;
+3. CD into the exercise you want to see running;
+4. Execute it with ```node name_of_the_exercise.js```
+
 # Method
 
 Basically I've used only object literals and conditional expressions in this exercise.
