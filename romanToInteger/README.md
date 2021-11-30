@@ -1,6 +1,6 @@
 # Roman number to decimal exercise
 
-[Link to this exercise in leetcode](https://leetcode.com/problems/roman-to-integer/). You can run the [Original code](originalRomanToInteger.js) if you want to try and have the same time as I did or you can run the [Humanized code](humanizedRomanToInteger.js) if you only want to see the algo running.
+[Link to this exercise in leetcode](https://leetcode.com/problems/roman-to-integer/). You can run the [Original code](originalRomanToInteger.js) if you want to try and have the same time as I did or you can run the [Humanized code](humanizedRomanToInteger.js) if you only want to see the algo running in a visually manner.
 
 # Method
 
