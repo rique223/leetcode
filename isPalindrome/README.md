@@ -24,6 +24,12 @@ var isPalindrome = function(x) {
 
 Albeit being small and elegant this solution is very abstract and heavy because of the use of the js functions and would only give me around a 59 to 70% top score in runtime, so I sailed in search of a lighter answer using bitwise, pointer logic and non abstract repetition loops:
 
+The algorithm is as follows:
+1. Input the number and turn it into a string;
+2. Calculate the range of the for loop with the length of the input number divided by 2;
+3. Reverse the number using the range calculated in the last step;
+4. Check if the initial input number is the same as the reversed one and return the result;
+
 For the calculation of the number of times the for loop should run so that the reverse is succesful I've used both bitwise implementation of Math.ceil and a bitwise implementation of even/odd number verification that looked like this:
 
 Odd even verify
@@ -51,3 +57,5 @@ const swap = (numberArray, i, j) => { // Receives the array and the indexes that
     return numberArray;
 }
 ```
+
+# Results
